@@ -1,8 +1,10 @@
-# 🛠️ Manual of Me: [Your Name]
+# 🛠️ Manual of Me: Brian Jones
 
 ### Technical Architect | Business-to-Tech Conduit
 
-I serve as the conduit between business needs and IT functions, translating "what we want" into "how we build it". I design systems that solve tangible problems.
+I serve as the conduit between business needs and IT functions, translating "what we want" into "how we build it". 
+I design systems that solve tangible problems.
+I ensure that effort is made where it creates value.
 
 ---
 
