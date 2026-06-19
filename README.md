@@ -66,6 +66,30 @@ I am an early bird and do my best deep-system thinking while the world is quiet.
 * **Urgent Huddles:** If you need an urgent chat, use the Slack Huddle.
 * **The One-Call Rule:** Please do not redial if I refuse the call.
 
+--- 
+
+## Documentation 
+
+I prefer markdown to word.
+- focus on content over style
+- organise headers, don't bold a header
+
+I prefer a jupyter notebook to a spreadsheet.
+- better to use a database with a narrative
+
+Avoid office products when communicating with me, they are too flexible and make bad habits.
+
+### Office suite
+
+#### Reviewing
+
+When reviewing work using the office suite:
+
+- When correcting spelling, punctuation or grammar, or suggesting wording changes track changes and make the edit.
+- When asking questions, or making a comment about the work, add a comment.
+- If asking for stykling changes make a comment, alter the styles rather than alter a single piece of text.
+    - I rely on styles to format documents, changing fonts outside of styles makes text inconsistent.
+
 ---
 
 ## 🔄 Feedback & Growth
